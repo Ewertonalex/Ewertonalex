@@ -12,10 +12,15 @@
   
   <div style="display: inline_block"><br>
     
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain .svg">
+  <img align="center" alt="ewe-Js" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png">
+    <img align="center" alt="ewe-Js" height="30" width="40" src="https://www.pngkit.com/png/full/70-701749_this-free-icons-png-design-of-python-language.png">
+    <img align="center" alt="ewe-Js" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png">
+    <img align="center" alt="ewe-Js" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png">
+    <img align="center" alt="ewe-Js" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/732/732190.png">
+    
+ </div>
   
-  
-   ##
+ ##
   
   <div>
     
