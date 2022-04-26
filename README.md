@@ -1,5 +1,11 @@
 ## 👋 Olá! Eu sou o Ewerton Alexander...
 
+<h3 align="center">
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=000000&size=25&lines=Bem+-+vindo+a+minha+página..." /></a>
+</h3>
+
+---
+
 - 🎓 Estou Cursado Sistemas para Internet (2º Período)
 - 💻 Atualmente estou estudando Python, Java e JavaScript
 
