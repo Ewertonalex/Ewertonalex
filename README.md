@@ -20,19 +20,18 @@
   
    ## Linguagens e ferramentas
   
-  <div align="center">
-
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=007396)&nbsp;
-![Python](https://img.shields.io/badge/-C%20Python-05122A?style=flat&logo=c%20sharp&logoColor=239120)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-  
-  </div>
+ <div align="center">
+<img height="80em" src="https://github.com/Ewertonalex/Ewertonalex/blob/main/logo/logo-javascript-1024.png"/>
+<img height="80em" src="https://github.com/Ewertonalex/Ewertonalex/blob/main/logo/html5-logo-10.png"/>
+<img height="80em" src="https://github.com/Ewertonalex/Ewertonalex/blob/main/logo/CSS3_logo.svg.png"/>
+<img height="80em" src="https://github.com/Ewertonalex/Ewertonalex/blob/main/logo/4ba63826-fe43-497e-a152-7b03d6b4b49c.png"/>
+<img height="80em" src="https://github.com/Ewertonalex/Ewertonalex/blob/main/logo/Git-Icon-1788C.png"/>
+<img height="80em" src="https://github.com/Ewertonalex/Ewertonalex/blob/main/logo/5848152fcef1014c0b5e4967.png"/>
+<img height="80em" src="https://github.com/Ewertonalex/Ewertonalex/blob/main/logo/postman-logo-0087CA0D15-seeklogo.com.png"/>
+<img height="80em" src="https://github.com/Ewertonalex/Ewertonalex/blob/main/logo/qa-logo-freelogovectors.net_.png"/>
+<img height="80em" src="https://github.com/Ewertonalex/Ewertonalex/blob/main/logo/28-scrum-600x279.webp"/>
+<img height="80em" src="https://github.com/Ewertonalex/Ewertonalex/blob/main/logo/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png"/>
+</div>
     
  ## Redes Sociais
   
