@@ -21,16 +21,16 @@
    ## Linguagens e ferramentas
   
  <div align="center">
-<img height="80em" src="https://github.com/Ewertonalex/Ewertonalex/blob/main/logo/logo-javascript-1024.png"/>
-<img height="80em" src="https://github.com/Ewertonalex/Ewertonalex/blob/main/logo/html5-logo-10.png"/>
-<img height="80em" src="https://github.com/Ewertonalex/Ewertonalex/blob/main/logo/CSS3_logo.svg.png"/>
-<img height="80em" src="https://github.com/Ewertonalex/Ewertonalex/blob/main/logo/4ba63826-fe43-497e-a152-7b03d6b4b49c.png"/>
-<img height="80em" src="https://github.com/Ewertonalex/Ewertonalex/blob/main/logo/Git-Icon-1788C.png"/>
-<img height="80em" src="https://github.com/Ewertonalex/Ewertonalex/blob/main/logo/5848152fcef1014c0b5e4967.png"/>
-<img height="80em" src="https://github.com/Ewertonalex/Ewertonalex/blob/main/logo/postman-logo-0087CA0D15-seeklogo.com.png"/>
-<img height="80em" src="https://github.com/Ewertonalex/Ewertonalex/blob/main/logo/qa-logo-freelogovectors.net_.png"/>
-<img height="80em" src="https://github.com/Ewertonalex/Ewertonalex/blob/main/logo/28-scrum-600x279.webp"/>
-<img height="80em" src="https://github.com/Ewertonalex/Ewertonalex/blob/main/logo/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png"/>
+<img height="40em" src="https://github.com/Ewertonalex/Ewertonalex/blob/main/logo/logo-javascript-1024.png"/>
+<img height="40em" src="https://github.com/Ewertonalex/Ewertonalex/blob/main/logo/html5-logo-10.png"/>
+<img height="40em" src="https://github.com/Ewertonalex/Ewertonalex/blob/main/logo/CSS3_logo.svg.png"/>
+<img height="40em" src="https://github.com/Ewertonalex/Ewertonalex/blob/main/logo/4ba63826-fe43-497e-a152-7b03d6b4b49c.png"/>
+<img height="40em" src="https://github.com/Ewertonalex/Ewertonalex/blob/main/logo/Git-Icon-1788C.png"/>
+<img height="40em" src="https://github.com/Ewertonalex/Ewertonalex/blob/main/logo/5848152fcef1014c0b5e4967.png"/>
+<img height="40em" src="https://github.com/Ewertonalex/Ewertonalex/blob/main/logo/postman-logo-0087CA0D15-seeklogo.com.png"/>
+<img height="40em" src="https://github.com/Ewertonalex/Ewertonalex/blob/main/logo/qa-logo-freelogovectors.net_.png"/>
+<img height="40em" src="https://github.com/Ewertonalex/Ewertonalex/blob/main/logo/28-scrum-600x279.webp"/>
+<img height="40em" src="https://github.com/Ewertonalex/Ewertonalex/blob/main/logo/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png"/>
 </div>
     
  ## Redes Sociais
