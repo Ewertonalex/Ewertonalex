@@ -1,13 +1,13 @@
-## 👋 Olá! Eu sou o Ewerton Alexander...
-
 <h3 align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=000000&size=25&lines=Bem+-+vindo+a+minha+página..." /></a>
 </h3>
 
----
+<h2 align="center"><img height="180em" src="https://github.com/Ewertonalex/Ewertonalex/blob/main/logo/zyro-image.png"/><br>👋 Olá! Eu sou o Ewerton Alexander...</h2>
 
-- 🎓 Estou Cursado Sistemas para Internet (2º Período)
-- 💻 Atualmente estou estudando Python, Java e JavaScript
+- 🎓 Estou Cursado Sistemas para Internet
+- 💻 Estagiando na Compass Uol - QA Automação de Testes com Postman
+
+---
 
 ## ⚙️  GitHub Analytics
 
