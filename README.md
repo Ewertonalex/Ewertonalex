@@ -22,6 +22,8 @@
   
  <div align="center">
 <img height="40em" src="https://github.com/Ewertonalex/Ewertonalex/blob/main/logo/logo-javascript-1024.png"/>
+<img height="40em" src="https://seeklogo.com/images/M/mocha-logo-66DA231220-seeklogo.com.png"/>
+<img height="40em" src="https://camo.githubusercontent.com/7ecbd4531436e4f20c1dba52a4fd4ac367cfcc20a2f62cfe7a10f32da306afc6/687474703a2f2f636861696a732e636f6d2f696d672f636861692d6c6f676f2e706e67"/>
 <img height="40em" src="https://github.com/Ewertonalex/Ewertonalex/blob/main/logo/html5-logo-10.png"/>
 <img height="40em" src="https://github.com/Ewertonalex/Ewertonalex/blob/main/logo/CSS3_logo.svg.png"/>
 <img height="40em" src="https://github.com/Ewertonalex/Ewertonalex/blob/main/logo/4ba63826-fe43-497e-a152-7b03d6b4b49c.png"/>
