@@ -8,13 +8,18 @@
 - 💻 Estagiando na Compass Uol - QA Automação de Testes com Postman
 
 ---
+<!-- GITHUB ANALYTICS -->
+<h2 id="table-of-contents"> ⚙️ GitHub Analytics</h2>
 
-## ⚙️  GitHub Analytics
 
 <div align="center">
   <a href="https://github.com/ewertonalex">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ewertonalex&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewertonalex&layout=compact&langs_count=7&theme=dark"/>
+
+  
+ ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+  
 </div>
   
   
