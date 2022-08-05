@@ -20,7 +20,7 @@
 <br>
 
 - 🌱 Atualmente estou me envonlvendo no mundo dos testes, realizando testes manuais e automatizados, testes em frontend, plano e cenários de testes. Algumas ferramentas que estou utilizando nesse processo são: Postman, Swagger, JavaScript, entre outras;<br>
-- Tenho conhecimento em Metodologias Ágeis;
+- 👨‍👨‍👧‍👦 Tenho conhecimento em Metodologias Ágeis;
 - 🚀 Concluí um Estágio na <strong>Compass Uol</strong>, de Automação de Testes de API com Postman. O que me deu uma excelente bagagem de conhecimento e norte para o que quero seguir na área;<br>
 - 🎓 Estou estudando Sistemas para Internet na UNIESP;<br>
 - 📫 Meu email: ewertonlgk20@gmail.com<br>
