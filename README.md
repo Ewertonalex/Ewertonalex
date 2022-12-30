@@ -75,6 +75,20 @@ Estas são algumas das tecnologias e ferramentas que trabalho:
 </div>
   
    ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+ 
+ <h3> 🏆 My GitHub Trophies </h3>
+ 
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=Ewertonalex&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+  
+
+ ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
  
 ### 💬 Quer me conhecer?
   
