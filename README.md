@@ -27,7 +27,7 @@
 
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-### 📊 Metas 2022:
+### 📊 Metas:
 
 - 📂 Expandir meu portfólio
 
